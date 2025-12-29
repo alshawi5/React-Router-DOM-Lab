@@ -1,7 +1,7 @@
 import { Routes, Route } from 'react-router';
 import NavBar from "./components/NavBar";
 import MailboxList from "./pages/MailboxList";
-import MailboxForm from "./pages/MailboxForm";
+import MailboxForm from "./pages/MailboxForm"; 
 import MailboxDetails from "./pages/MailboxDetails";
 
 
